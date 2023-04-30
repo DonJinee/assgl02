@@ -1,0 +1,23 @@
+{
+    "contact": {
+      "firstName": "Utibe",
+      "lastName": "Omachona",
+      "email": "princessutine7@test.com",
+      "favoriteColor": "Blue",
+      "birthday": "22/04/1995"
+    },
+    "contact2": {
+      "firstName": "Sunday",
+      "lastName": "Ochigbo",
+      "email": "ochigbo@test.com",
+      "favoriteColor": "Red",
+      "birthday": "22/09/1999"
+    },
+    "contact3": {
+      "firstName": "Priscilla",
+      "lastName": "Aror",
+      "email": "Priscy@test.com",
+      "favoriteColor": "Pink",
+      "birthday": "05/01/1997"
+    }
+  }
